@@ -74,8 +74,8 @@ The following steps will be undertaken:
 Then, iterating through all the unique London_Boroughs and working out the ratio capturing the difference of house prices between 1998 and 2018 will be carried out.
 
 <p align="center">
-  <img width="1000" height="800" src="https://raw.githubusercontent.com/mohamedziane/London-Housing-Prices-by-Borough-1998-to-2018-/main/images/img5.png">
-  <img width="1000" height="800" src="https://raw.githubusercontent.com/mohamedziane/London-Housing-Prices-by-Borough-1998-to-2018-/main/images/img6.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/London-Housing-Prices-by-Borough-1998-to-2018-/main/images/img5.png">
+  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/London-Housing-Prices-by-Borough-1998-to-2018-/main/images/img6.png">
 </p>
 
 ## 6. Evaluating and Concluding

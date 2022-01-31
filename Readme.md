@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img width="600" height="300" src="https://www.local-government.org.uk/images/Greater_London-Boroughs.png">
+  <img width="600" height="500" src="https://www.local-government.org.uk/images/Greater_London-Boroughs.png">
 </p>
 
 ## 1. Introduction

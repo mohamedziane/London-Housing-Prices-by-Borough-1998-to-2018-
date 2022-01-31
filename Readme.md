@@ -31,15 +31,14 @@ Our data comes from the [London Datastore](https://data.london.gov.uk/): a free,
 ## 3. Sourcing and loading
 
 <p align="center">
-  <img width="600" height="300" src="INSERT BEFORE">
-  <img width="600" height="300" src="INSERT AFTER">
+  <img width="600" height="300" src="https://raw.githubusercontent.com/mohamedziane/London-Housing-Prices-by-Borough-1998-to-2018-/main/images/img1.png">
 </p>
 
 ## 4. Cleaning, transforming, and visualizing
 
 <p align="center">
-  <img width="600" height="300" src="INSERT BEFORE month">
-  <img width="600" height="300" src="INSERT BEFORE month data viz">
+  <img width="600" height="300" src="https://raw.githubusercontent.com/mohamedziane/London-Housing-Prices-by-Borough-1998-to-2018-/main/images/img2.png">
+  <img width="600" height="300" src="https://raw.githubusercontent.com/mohamedziane/London-Housing-Prices-by-Borough-1998-to-2018-/main/images/img3.png">
 </p>
 
 In order to limit the number of data points I have, I will extract the year from every month value from the *Month* column. 
@@ -53,7 +52,7 @@ A lambda function will be used, following the following pattern:
 A reminder of the initial brief: which boroughs of London have seen the greatest house price increase, on average, over the past two decades? 
 
 <p align="center">
-  <img width="600" height="300" src="INSERT AFTER year">
+  <img width="600" height="300" src="https://raw.githubusercontent.com/mohamedziane/London-Housing-Prices-by-Borough-1998-to-2018-/main/images/img4.png">
 </p>
 
 ## 5. Modeling
@@ -75,15 +74,15 @@ The following steps will be undertaken:
 Then, iterating through all the unique London_Boroughs and working out the ratio capturing the difference of house prices between 1998 and 2018 will be carried out.
 
 <p align="center">
-  <img width="600" height="300" src="INSERT BEFORE">
-  <img width="600" height="300" src="INSERT AFTER">
+  <img width="600" height="300" src="https://raw.githubusercontent.com/mohamedziane/London-Housing-Prices-by-Borough-1998-to-2018-/main/images/img5.png">
+  <img width="600" height="300" src="https://raw.githubusercontent.com/mohamedziane/London-Housing-Prices-by-Borough-1998-to-2018-/main/images/img6.png">
 </p>
 
 ## 6. Evaluating and Concluding
 
 <p align="center">
-  <img width="600" height="300" src="INSERT top">
-  <img width="600" height="300" src="INSERT bot">
+  <img width="600" height="300" src="https://raw.githubusercontent.com/mohamedziane/London-Housing-Prices-by-Borough-1998-to-2018-/main/images/img7.png">
+  <img width="600" height="300" src="https://raw.githubusercontent.com/mohamedziane/London-Housing-Prices-by-Borough-1998-to-2018-/main/images/img8.png">
 </p>
 
 - Hackney has shown the greatest price change among all of the London boroughs with ~6.2% when comparing 1995 with 2018.
